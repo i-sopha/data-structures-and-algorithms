@@ -63,6 +63,7 @@ const oddValues = (arr) => {
 
   newArray = arr.filter(int => int % 2 === 1 );
 
+  
   return newArray;
 };
 
